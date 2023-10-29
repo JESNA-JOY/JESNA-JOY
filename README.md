@@ -4,11 +4,9 @@ Welcome to my GitHub profile. I'm a passionate developer and an open-source enth
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: Python, JavaScript
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
+- Web Development: HTML, CSS, JavaScript
+- Programming Languages: Python, Java, C
 - Version Control: Git
-- DevOps: Docker
 - IDE: Visual Studio Code
 
 ## 🌱 Currently Learning
@@ -19,22 +17,12 @@ I'm always eager to expand my knowledge, and currently, I'm focused on enhancing
 - Exploring data science and machine learning
 - Contributing to open-source projects
 
-## 📚 Featured Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/your/project1): Brief description of Project 1.
-- [Project 2](https://github.com/your/project2): Brief description of Project 2.
-- [Project 3](https://github.com/your/project3): Brief description of Project 3.
-
 ## 🤝 Let's Connect
 
 Feel free to connect with me and explore my work on other platforms:
 
-- 🌐 Website: [YourWebsite.com](https://yourwebsite.com)
-- 📧 Email: your@email.com
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yourlinkedinprofile)
+- 📧 Email: joyjesna18052001@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jesna-joy-497501201
 
 I'm always open to collaboration and interesting conversations. Don't hesitate to reach out!
 
